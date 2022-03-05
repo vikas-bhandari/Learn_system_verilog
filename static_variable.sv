@@ -1,6 +1,7 @@
 /*
 Class to explain the usage of static variable in system verilog. Static variables
 are shared across the class which is explained in below example.
+In the below example value of variable id is shared across class instances.
 */
 
 class Packet;
